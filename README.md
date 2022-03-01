@@ -17,6 +17,6 @@ and **CSS styling** are the main focus of this project.
 
 ## Finished Product
 
-![Full Webpage Screenshot]()
-Link to live [MetaPets Webpage]()
-Link to [Code Repository]()
+![Full Webpage Screenshot](./assets/MetaPets-Page.png)
+Link to live [MetaPets Webpage](https://vidalatan.github.io/Mini-project/)
+Link to [Code Repository](https://github.com/Vidalatan/Mini-project)
